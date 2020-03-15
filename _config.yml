@@ -1,11 +1,11 @@
 # Site settings
 author: Charles Adkins
-title: 
+title: Tech Talk
 header-img: img/home-bg.png
 email: cpeadkins@gmail.com
 copyright_name: Charles Adkins
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Jumping Into the Tech Field
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cpeadkins
