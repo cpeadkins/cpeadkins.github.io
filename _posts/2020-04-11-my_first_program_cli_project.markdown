@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First Program (CLI Project)"
-date:       2020-04-11 20:29:50 +0000
+date:       2020-04-11 16:29:51 -0400
 permalink:  my_first_program_cli_project
 ---
 
@@ -17,7 +17,7 @@ It is okay not to know everything is a reality in code that we need to accept ea
 
 And the struggle begins. (At least I had a little fun. I think coding easter-eggs into my programs would be a distraction from the hair-ripping frustrations.)
 
-It took me too long to find the ```Date.today``` Ruby operator. Starting out means learning there are convient applicable shortcuts that will help you keep your sanity.
+It took me too long to find the ```Date.today``` Ruby operator. Starting out means learning there are convenient applicable shortcuts that will help you keep your sanity.
 
 #### In short ...
 In the end, I'm still learning and that can be frustrating in itself. Google can only help so much especially when you only know some Ruby and the solutions to your bugs are beyond your knowledge set. I keep reminding myself to stay focused and stay positive. In the end it will be worth it.
